@@ -1,3 +1,3 @@
 # ContactApp
 
-[Demo](https://i.imgur.com/jIjlaBY.mp4)
+[Demo](https://i.imgur.com/jIjlaBY.gifv)
